@@ -1,0 +1,12 @@
+.idea/
+.vs/
+.vscode/
+
+bin/
+obj/
+
+launchSettings.json
+appsettings.development.json
+*.csproj.user
+*.sln.DotSettings.user
+*.pubxml.user
